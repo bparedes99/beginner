@@ -10,7 +10,7 @@ This is intended as an educational quantitative finance project for learning, po
 
 ## Key Updates in This Version
 
-This updated notebook includes several improvements beyond the base Finance 101 structure:
+This notebook includes several components as the base Finance 101 structure:
 
 - Pulls live ETF data using `yfinance`.
 - Uses monthly market data for SPY and BND.
